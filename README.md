@@ -73,7 +73,7 @@ I welcome contributions and suggestions from the community! If you come across a
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
 - **Email:** itsambrishtripathi@gmail.com
-- **LinkedIn:** [Ambrish Tripathi]([https://www.linkedin.com/in/hamad-anwar](https://www.linkedin.com/in/ambrish-tripathi-iiitu/))
+- **LinkedIn:** [Andy Lau]([https://www.linkedin.com/in/hamad-anwar](https://www.linkedin.com/in/ambrish-tripathi-iiitu/))
 
 ## License
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Designed and developed with ❤️ by [Ambrish Tripathi](https://www.linkedin.com/in/ambrish-tripathi-iiitu/).
+### Designed and developed with ❤️ by [Andy Lau]().
