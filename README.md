@@ -4,7 +4,8 @@ I appreciate you stopping by my online portfolio repository. This Flutter-powere
 
 ## Live Demo
 
-You can explore the live version of the website [Click to see live demo]([https://hamad-anwar.github.io/Portfolio/#/](https://ambrishtripathi6974.github.io/ambrishtripathi6974.github.io-Portfolio/)).
+You can explore the live version of the website [Click to see live demo]
+([https://hamad-anwar.github.io/Portfolio/#/](https://ambrishtripathi6974.github.io/ambrishtripathi6974.github.io-Portfolio/)).
 
 ## Screenshots
 
@@ -48,7 +49,7 @@ The portfolio website is built using Flutter, a powerful open-source UI software
 To explore and interact with the portfolio website on your local machine, follow these steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/AmbrishTripathi6974/ambrish.git
+   git clone https://github.com/melo1228/flutter-portfolio.git
 2. **Install Dependencies:**
    flutter pub get
 3. **Run Application**
